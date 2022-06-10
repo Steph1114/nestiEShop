@@ -1,0 +1,264 @@
+CRITICAL - 2022-05-29 04:50:31 --> Array to string conversion
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(93): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\wamp64\\www\\f...', 93, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->login()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-29 04:53:09 --> validateUser is not a valid rule.
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_password', 'users_password', 'azerty123', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(96): CodeIgniter\Controller->validate(Array, Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->login()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-29 05:07:59 --> validateUser is not a valid rule.
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_password', 'users_password', 'azerty123', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(94): CodeIgniter\Controller->validate(Array, Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->login()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-29 05:09:35 --> Class 'App\Validation\UserRules' not found
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(115): CodeIgniter\Validation\Validation->loadRuleSets()
+#1 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(94): CodeIgniter\Controller->validate(Array, Array)
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->login()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-29 05:11:55 --> Undefined index: id_php_users
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\f...', 123, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(104): App\Controllers\C_User->setUserSession(Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->login()
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 05:20:21 --> Undefined variable: data
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:20:44 --> Undefined variable: data
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:21:31 --> Undefined variable: data
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:21:45 --> Undefined variable: user
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:22:09 --> Undefined variable: user
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:34:45 --> Undefined variable: _SESSION
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:36:12 --> Undefined index: users_nickname
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:37:23 --> Undefined variable: data
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:38:01 --> Undefined variable: data
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:38:21 --> Argument 2 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type int or null, array given, called in C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php on line 102
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(102): CodeIgniter\HTTP\RedirectResponse->to('http://localhos...', Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->login()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-29 05:39:30 --> Argument 2 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type int or null, array given, called in C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php on line 102
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(102): CodeIgniter\HTTP\RedirectResponse->to('http://localhos...', Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->login()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-29 05:39:40 --> Argument 2 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type int or null, array given, called in C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php on line 102
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(102): CodeIgniter\HTTP\RedirectResponse->to('http://localhos...', Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->login()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-29 05:40:22 --> Undefined variable: _SESSION
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:42:11 --> Undefined variable: _SESSION
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:42:27 --> Undefined variable: _SESSION
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:43:54 --> Undefined variable: _SESSION
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:44:22 --> Undefined variable: session
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:44:34 --> Undefined variable: data
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 05:48:56 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')'
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-29 05:49:17 --> Undefined variable: _SESSION
+#0 C:\wamp64\www\fil_rouge_eshop\app\Views\content\V_Profile.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 5, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include('C:\\wamp64\\www\\f...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#4 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_Profile.php(11): view('Views/content/V...')
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_Profile->index()
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Profile))
+#7 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-29 06:05:35 --> Call to undefined method CodeIgniter\Session\Session::set_userdata()
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(99): App\Controllers\C_User->setUserSession(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->login()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-29 06:06:18 --> Call to undefined method CodeIgniter\Session\Session::set_userdata()
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(99): App\Controllers\C_User->setUserSession(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->login()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,1390 @@
+CRITICAL - 2022-05-28 05:16:02 --> Invalid file: common/header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('common/header.p...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('common/header.p...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('common/header.p...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:19:17 --> Invalid file: ../common/header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../common/heade...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('../common/heade...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('../common/heade...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:21:15 --> Invalid file: /Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/Views/common/V...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/Views/common/V...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/Views/common/V...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:21:53 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:22:32 --> Invalid file: /fil_rouge_eshop/public/Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/fil_rouge_esho...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/fil_rouge_esho...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/fil_rouge_esho...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:22:35 --> Invalid file: /fil_rouge_eshop/public/Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/fil_rouge_esho...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/fil_rouge_esho...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/fil_rouge_esho...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:22:37 --> Invalid file: /fil_rouge_eshop/public/Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/fil_rouge_esho...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/fil_rouge_esho...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/fil_rouge_esho...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:22:37 --> Invalid file: /fil_rouge_eshop/public/Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/fil_rouge_esho...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/fil_rouge_esho...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/fil_rouge_esho...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:22:37 --> Invalid file: /fil_rouge_eshop/public/Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/fil_rouge_esho...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/fil_rouge_esho...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/fil_rouge_esho...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:22:38 --> Invalid file: /fil_rouge_eshop/public/Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/fil_rouge_esho...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/fil_rouge_esho...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/fil_rouge_esho...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:22:38 --> Invalid file: /fil_rouge_eshop/public/Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/fil_rouge_esho...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/fil_rouge_esho...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/fil_rouge_esho...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:23:53 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:24:01 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\wamp64\www\fil_rouge_eshop\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home')
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 05:24:08 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\wamp64\www\fil_rouge_eshop\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 05:24:29 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:25:55 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:25:55 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:25:57 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:25:57 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:25:57 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:25:57 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:25:57 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:02 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:11 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:18 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:21 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:21 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:21 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:21 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:21 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:21 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:25 --> Invalid file: ./Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:43 --> Invalid file: /Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/Views/common/V...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/Views/common/V...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/Views/common/V...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:46 --> Invalid file: /Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/Views/common/V...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/Views/common/V...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/Views/common/V...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:46 --> Invalid file: /Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/Views/common/V...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/Views/common/V...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/Views/common/V...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:46 --> Invalid file: /Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/Views/common/V...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/Views/common/V...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/Views/common/V...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:46 --> Invalid file: /Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/Views/common/V...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/Views/common/V...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/Views/common/V...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:46 --> Invalid file: /Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/Views/common/V...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/Views/common/V...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/Views/common/V...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:47 --> Invalid file: /Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/Views/common/V...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/Views/common/V...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/Views/common/V...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:48 --> Invalid file: /Views/common/V_Header.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/Views/common/V...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('/Views/common/V...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(9): view('/Views/common/V...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 05:26:54 --> Invalid file: ./Views/common/V_Nav.php
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('./Views/common/...')
+#1 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('./Views/common/...', Array, true)
+#2 C:\wamp64\www\fil_rouge_eshop\app\Controllers\Home.php(10): view('./Views/common/...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 10:45:45 --> Call to undefined function set_value()
+#0 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(210): include()
+#1 C:\wamp64\www\fil_rouge_eshop\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\fil_rouge_eshop\system\Common.php(1089): CodeIgniter\View\View->render('Views/content/V...', Array, true)
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(23): view('Views/content/V...')
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-28 11:12:54 --> Call to a member function getMethod() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:13:09 --> Call to a member function getMethod() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:13:13 --> Call to a member function getMethod() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:21:07 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:22:02 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:22:05 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:23:13 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:24:10 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:24:14 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:24:14 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:24:14 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:24:14 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:24:15 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:27:07 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:27:10 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(27): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:32:32 --> Undefined variable: data
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 45, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 11:32:32 --> Undefined variable: data
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\f...', 45, Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-05-28 11:37:16 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:37:16 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:25 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:25 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:25 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:25 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:26 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:27 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:27 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:27 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:27 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:27 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:27 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:40:27 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:40:27 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:50:15 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:50:15 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:51:42 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:51:42 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:52:15 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:52:15 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 11:52:43 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:52:43 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:54:53 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:54:53 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:54:56 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:54:56 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:55:00 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:55:00 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:55:31 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:55:31 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:56:00 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:56:00 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:56:50 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:56:50 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:57:07 --> La table 'fil_rouge_php.users' n'existe pas
+CRITICAL - 2022-05-28 11:57:07 --> La table 'fil_rouge_php.users' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'mail', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:31 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:31 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:32 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:32 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:32 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:32 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:33 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:34 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:34 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:34 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:34 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-28 11:59:34 --> La table 'fil_rouge_php.php' n'existe pas
+CRITICAL - 2022-05-28 11:59:34 --> La table 'fil_rouge_php.php' n'existe pas
+#0 C:\wamp64\www\fil_rouge_eshop\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\wamp64\www\fil_rouge_eshop\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\wamp64\www\fil_rouge_eshop\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'users', Array, NULL)
+#6 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#7 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(36): CodeIgniter\Controller->validate(Array)
+#9 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#10 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#11 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-05-28 12:11:49 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(41): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:11:58 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(41): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:12:35 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:13:02 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register()
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:14:39 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:14:40 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:14:40 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:14:40 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:14:40 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:14:40 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:14:41 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:14:41 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:15:10 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:15:55 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-28 12:16:46 --> Call to a member function getVar() on null
+#0 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(44): App\Models\M_User->register(Array)
+#1 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#2 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#3 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-05-28 12:20:05 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:20:05 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 12:20:09 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:20:09 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 12:20:11 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:20:11 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 12:20:11 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:20:11 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 12:20:11 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:20:11 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 12:22:00 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:22:00 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 12:22:12 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:22:12 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 12:22:12 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:22:12 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 12:22:29 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:22:29 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 12:56:42 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:56:42 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(40): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 12:57:32 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:57:32 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(40): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 12:57:49 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 12:57:49 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_email', 'users_email', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(40): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 13:02:14 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 13:02:14 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_mail', 'users_mail', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(40): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 13:03:23 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 13:03:23 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_mail', 'users_mail', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(40): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 13:03:28 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 13:03:28 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_mail', 'users_mail', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(40): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 13:03:41 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 13:03:41 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_mail', 'users_mail', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(40): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 13:06:20 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 13:06:20 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_mail', 'users_mail', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(40): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 13:06:34 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 13:06:34 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_mail', 'users_mail', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(40): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 13:07:46 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 13:07:46 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_mail', 'users_mail', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(40): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-28 13:07:51 --> Champ 'php_mail' inconnu dans where clause
+CRITICAL - 2022-05-28 13:07:51 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('administra@gmai...', 'php_mail', Array, NULL)
+#1 C:\wamp64\www\fil_rouge_eshop\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('users_mail', 'users_mail', 'administra@gmai...', Array, Array)
+#2 C:\wamp64\www\fil_rouge_eshop\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\fil_rouge_eshop\app\Controllers\C_User.php(40): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(832): App\Controllers\C_User->register()
+#5 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_User))
+#6 C:\wamp64\www\fil_rouge_eshop\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\fil_rouge_eshop\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
